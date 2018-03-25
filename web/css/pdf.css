@@ -1,0 +1,72 @@
+@import url(fonts/th-saraban/thsarabunnew.css);
+body{
+    font-family: "THSarabunNew, Garuda";
+    font-size: 10pt;
+    /*background-image: url('../web/cert_templates/cert1.jpg'); background-repeat: no-repeat;*/
+    background-position: center; 
+    position: relative;
+}
+.print {
+  background: url("../web/cert_templates/6.jpg") 100% 0 no-repeat;
+ 
+}
+
+/*.table_bordered{
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+.table_bordered td{
+    border:0.5px solid #000;
+    padding: 5px;
+   
+}
+.row_height {
+    height: 100px;
+}
+.txt_sign {
+    vertical-align: bottom;
+}
+.cell {
+    padding:60px;
+    font-size: 12px;
+   
+}
+.txt_padding {
+    padding: 10px;
+}
+
+#OEA {
+   
+    padding:160px;
+    width: 50%;
+    height: 350px;
+    background-color: green;
+}
+
+.cellwidener {
+    display:table-cell;
+    padding:50px;
+  }
+  td.tight {
+    padding: 0px;
+  }
+
+  .table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10px;
+  }
+  
+  .row { display:table-row; }
+  
+  .cell {
+    display:table-cell;
+    padding:50px;
+    background-color: gold;
+  }
+
+  .tile
+  {
+     display: table-cell;
+     padding: 50px;
+  }*/
